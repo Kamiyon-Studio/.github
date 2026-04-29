@@ -2,7 +2,7 @@
   <img src="banner.jpg" alt="Kamiyon Studio Banner" width="100%">
 </p>
 
-#🌸 KAMIYON STUDIO
+# 🌸 KAMIYON STUDIO
 
 Hello! We’re two indie game developers from the Philippines, passionate about bringing our ideas to life without being tied down to a single genre or style.
 
